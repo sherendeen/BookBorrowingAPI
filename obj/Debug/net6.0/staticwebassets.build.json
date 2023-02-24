@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RLgJYMueXNXEL+XMLl61uAO+lm6YEri65AKJ6pb7Uyw=",
+  "Source": "BookBorrowingAPI",
+  "BasePath": "_content/BookBorrowingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
